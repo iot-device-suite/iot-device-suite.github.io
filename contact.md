@@ -6,10 +6,10 @@ permalink: /contact
 
 
 ## Roland Marx
-### Head of  Embedded Security Experts
+### Product Manager IoT 
 <ul>
   <li>+49 152 285 112 13</li>
-  <li>contact@esec-experts.com</li>
+  <li>roland.marx@osb-connagtive.com</li>
 </ul>
 
 
