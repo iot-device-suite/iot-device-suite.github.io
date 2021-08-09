@@ -9,4 +9,7 @@ permalink: /gui/fleet-tables/ownership-view
 
 
 
-#
+# Ownership & Intergrations
+
+
+<image src="/docs/images/screenshots/ownership_view.png" width="1000"  class="img-border" />

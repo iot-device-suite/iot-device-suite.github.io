@@ -1,0 +1,89 @@
+I"�<h1 class="no_toc" id="home-page">Home Page</h1>
+
+<p>The home page is main page of the GUI</p>
+
+<image src="/docs/images/screenshots/home-page.png" width="1000" class="img-border" />
+
+<h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
+
+<ol id="markdown-toc">
+  <li><a href="#quick-access" id="markdown-toc-quick-access">Quick Access</a></li>
+  <li><a href="#fleet-tables" id="markdown-toc-fleet-tables">Fleet Tables</a></li>
+  <li><a href="#iot-device-manager-product" id="markdown-toc-iot-device-manager-product">IoT Device Manager Product</a>    <ol>
+      <li><a href="#change-log" id="markdown-toc-change-log">Change Log</a></li>
+      <li><a href="#roadmap" id="markdown-toc-roadmap">Roadmap</a></li>
+      <li><a href="#device-api" id="markdown-toc-device-api">Device API</a></li>
+      <li><a href="#feature-api" id="markdown-toc-feature-api">Feature API</a></li>
+      <li><a href="#hawkbit-api" id="markdown-toc-hawkbit-api">Hawkbit API</a></li>
+      <li><a href="#add-device" id="markdown-toc-add-device">Add Device</a></li>
+    </ol>
+  </li>
+  <li><a href="#account-security-features" id="markdown-toc-account-security-features">Account Security Features</a>    <ol>
+      <li><a href="#multi-factor-authentication" id="markdown-toc-multi-factor-authentication">Multi Factor Authentication</a></li>
+      <li><a href="#change-password" id="markdown-toc-change-password">Change password</a></li>
+      <li><a href="#session-timeout" id="markdown-toc-session-timeout">Session Timeout</a></li>
+    </ol>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="quick-access">Quick Access</h2>
+<p>Here you can quickly look for a specific device in your device fleet.</p>
+
+<image src="/docs/images/screenshots/quick-access.png" width="900" class="img-border" />
+
+<h2 id="fleet-tables">Fleet Tables</h2>
+
+<p>Here we set the buttons to access the fleet tables. below every button, we listed the most important elements you will find in the table.</p>
+
+<image src="/docs/images/screenshots/fleet-tables.png" width="900" class="img-border" />
+
+<h2 id="iot-device-manager-product">IoT Device Manager Product</h2>
+
+<image src="/docs/images/screenshots/product.png" width="900" class="img-border" />
+
+<h3 id="change-log">Change Log</h3>
+
+<p>Here, we inform you about new features, improvements and bugfixes.<br />
+<a href="/GUI/change-log">Learn more here.</a></p>
+
+<h3 id="roadmap">Roadmap</h3>
+
+<p>We work agile, which means we develop features one by one which give the best business value to our customers.<br />
+<a href="/GUI/roadmap">Learn more here.</a></p>
+
+<h3 id="device-api">Device API</h3>
+<p><a href="/GUI/roadmap">Learn more here.</a></p>
+
+<h3 id="feature-api">Feature API</h3>
+<p><a href="/GUI/roadmap">Learn more here.</a></p>
+
+<h3 id="hawkbit-api">Hawkbit API</h3>
+<p><a href="/GUI/roadmap">Learn more here.</a></p>
+
+<h3 id="add-device">Add Device</h3>
+
+<h2 id="account-security-features">Account Security Features</h2>
+
+<h3 id="multi-factor-authentication">Multi Factor Authentication</h3>
+<p>In our GUI, we make sure that your account is always secure, that’s why we supported a Time-Based One Time Password (TOTP) as a second authentication mechanism.<br />
+To activate it, all you have to do is to follow the simple steps listed in the MFA activation page.</p>
+
+<image src="/docs/images/screenshots/mfa.png" width="500" class="img-border" />
+
+<p><br /></p>
+
+<h3 id="change-password">Change password</h3>
+<p>Changing your password regularly reduces your risk of exposure and avoids a number of dangers. That’s wahy we supported the <strong>Change Password</strong> in our GUI.</p>
+
+<image src="/docs/images/screenshots/change-password.png" width="500" class="img-border" />
+
+<p><br /></p>
+
+<h3 id="session-timeout">Session Timeout</h3>
+<p>This is another security mechanism we support in our GUI: Session Timeout! <br />
+Your login session is valid for only 30 min, after this you will get logged out automatically.</p>
+<image src="/docs/images/screenshots/session-timeout.png" width="400" class="img-border" />
+
+:ET

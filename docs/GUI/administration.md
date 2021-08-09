@@ -1,6 +1,10 @@
 ---
 layout: default
-title: User & Customer Administration
+title: Administration
 parent: GUI
-nav_order: 2
+nav_order: 4
+permalink: /GUI/administration
 ---
+
+
+# User & Customer Administration

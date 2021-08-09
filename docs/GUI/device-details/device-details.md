@@ -1,12 +1,13 @@
 ---
 layout: default
-title: device-details
+title: Device Details
 parent: GUI
 has_children: true
 nav_order: 3
-permalink: /:parent/:title
+permalink: /gui/device-details
 ---
 
 
 
 # Device Details
+
