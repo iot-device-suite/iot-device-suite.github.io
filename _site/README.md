@@ -1,2 +1,2 @@
 
-[osb-cc-esec.github.io](https://osb-cc-esec.github.io/)
+[doc.iot-suite.io](https://doc.iot-suite.io/)
